@@ -1,5 +1,5 @@
 Dragon's World
-##Project Introduction
+#Project Introduction
 “Dragon’s World” is an exciting game where you control a dragon that must jump over an incoming obstacle (another dragon) to survive. The objective is to score points by successfully avoiding the obstacles. The game is built using HTML, CSS, and JavaScript, providing a fun and interactive experience.
 
 ##Table of Contents
